@@ -1,6 +1,4 @@
 # Snake Solving Algorithms
-
-## Indroduction
 The classic game snake and various algorithms to play the game. This is not an AI.
 
 ## Installation
